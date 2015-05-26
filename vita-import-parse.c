@@ -203,9 +203,6 @@ vita_imports_t *vita_imports_loads(const char *text)
 					json_integer_value(nid));
 
 			}
-
-
-
 		}
 	}
 
